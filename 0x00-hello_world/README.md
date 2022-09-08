@@ -1,1 +1,1 @@
-puts
+print f
