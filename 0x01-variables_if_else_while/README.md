@@ -1,1 +1,1 @@
-print alphabt 4
+last digit
