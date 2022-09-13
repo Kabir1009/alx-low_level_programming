@@ -1,1 +1,1 @@
-first 10 alphabet
+check for lower case character
