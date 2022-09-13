@@ -1,1 +1,1 @@
-1-alphabets
+first 10 alphabet
