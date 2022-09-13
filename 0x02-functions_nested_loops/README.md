@@ -1,1 +1,1 @@
-putchar
+1-alphabets
