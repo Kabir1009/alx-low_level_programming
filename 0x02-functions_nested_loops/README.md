@@ -1,1 +1,1 @@
-check for lower case character
+isalpha
