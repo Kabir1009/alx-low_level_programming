@@ -1,1 +1,1 @@
-101 print combo
+102 print comb5
