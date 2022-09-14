@@ -1,1 +1,1 @@
-lower case alphabet
+islower

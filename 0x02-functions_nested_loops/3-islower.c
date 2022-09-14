@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - print 1 and 0 depend on inputs
+ * _islower - prints 1 or 0 depending on input
+ * @c: first parameter
  *
- * Description: _islower print all lower case
- *
- * Return: Always 0
+ * Description: prints all lowercase letters
+ * Return: Always(0).
  */
 
 int _islower(int c)
