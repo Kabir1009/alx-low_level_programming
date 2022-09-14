@@ -1,1 +1,1 @@
-print numberz
+1-last_digit
