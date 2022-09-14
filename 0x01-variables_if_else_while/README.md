@@ -1,1 +1,1 @@
-print comb
+100 print combo
