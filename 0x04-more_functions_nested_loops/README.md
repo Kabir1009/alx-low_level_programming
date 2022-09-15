@@ -1,1 +1,1 @@
-2-mul
+3-print_numbers
