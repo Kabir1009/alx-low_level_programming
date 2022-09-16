@@ -1,1 +1,1 @@
-9-fizz_buzz
+10-print_triangle
