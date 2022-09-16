@@ -1,1 +1,1 @@
-7-print_diagonal
+8-print_square
