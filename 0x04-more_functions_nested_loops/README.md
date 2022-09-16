@@ -1,1 +1,1 @@
-8-print_square
+9-fizz_buzz
