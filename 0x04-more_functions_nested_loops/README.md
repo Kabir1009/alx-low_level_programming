@@ -1,1 +1,1 @@
-6-print_line
+7-print_diagonal
