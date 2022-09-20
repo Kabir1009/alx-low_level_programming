@@ -1,1 +1,1 @@
-2-strlen
+3-puts
