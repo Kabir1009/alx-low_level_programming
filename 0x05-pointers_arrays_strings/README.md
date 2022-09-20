@@ -1,1 +1,1 @@
-9-strcpy
+6-puts2
