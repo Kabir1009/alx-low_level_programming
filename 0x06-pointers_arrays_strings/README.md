@@ -1,1 +1,1 @@
-101-print_number
+102-magic
